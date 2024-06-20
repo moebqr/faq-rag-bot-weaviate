@@ -12,7 +12,7 @@ from store import store_embeddings
 from chat import chat_with_pdf
 
 # Start of streamlit application
-st.title("PDF QA Bot using Langchain")
+st.title("PDF FAQ Bot using Langchain")
 
 # Intitialization
 st.header("File upload")
